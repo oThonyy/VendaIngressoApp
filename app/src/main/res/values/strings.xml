@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VendaIngressoApp</string>
+    <string name="codigoIngresso">Código do Ingresso</string>">
+    <string name="valorIngresso">Valor Ingresso</string>
+    <string name="comprarIngresso">Comprar ingresso</string>
+    <string name="taxaConv">Taxa de conveniência (%)</string>
+    <string name="funcao">Função para VIP</string>
+    <string name="vip">VIP</string>
+
+    <string name="retornar">Retornar para a tela inicial</string>
+    <string name="dadosCompra"></string>
+</resources>
